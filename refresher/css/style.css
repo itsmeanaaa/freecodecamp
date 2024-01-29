@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+.main-class{
+    background-color: #deb887;
+    padding:5%;
+}
+h1,p,h2{
+  /*  text-align: center; */
+}
+.first-class{
+    font-style:italic;
+}
+hr{
+    height: 5px;
+    background-color:red;
+    position: relative;
+}
+p{
+    font-size: 18px;
+    display: inline-block;
+    margin:auto;
+
+
+}
+img{
+    display: block;
+  /* margin:auto; */
+}
